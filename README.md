@@ -1,0 +1,1 @@
+# technohacks_task2_diabetes_prediction
